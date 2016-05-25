@@ -1,99 +1,50 @@
-# Aldi list
+# Aldi list<br>
 
+<br>[ ] Blackberries	[ ] Blueberries<br>
+[ ] Grapes	[ ] Kiwis<br>
+[ ] Lemons	[ ] Oranges<br>
+[ ] Pineapple	[ ] Strawberries<br>
+[ ] Tangerines<br>
 
+[ ] Courgettes	[ ] Carrots<br>
+[ ] Garlic	[ ] Onions<br>
+[ ] Peppers	[ ] Potatoes<br>
+[ ] Salad	[ ] Spring onions<br>
+[ ] Soup vegetables<br>
 
-[ ] Blackberries	[ ] Blueberries
+[ ] Apple juice	[ ] Grapefruit juice<br>
+[ ] Orange juice<br>
 
-[ ] Grapes	[ ] Kiwis
+[ ] Apricot jam	[ ] Marmalade<br>
+[ ] Peanut butter	[ ] Strawberry jam<br>
 
-[ ] Lemons	[ ] Oranges
+[ ] Apple pies	[ ] Bourbon biscuits<br>
+[ ] Custard	[ ] Gingernuts<br>
+[ ] Sponge puddings	[ ] Sugar - brown, white<br>
 
-[ ] Pineapple	[ ] Strawberries
+[ ] Calgon	[ ] Comfort<br>
+[ ] Kitchen roll	[ ] Loo roll<br>
+[ ] Tissues	[ ] Vanish<br>
+[ ] Washing powder/liquid	[ ] Wipes<br>
 
-[ ] Tangerines
+[ ] Butter	[ ] Cheese(red, white)<br>
+[ ] Creme fraiche	[ ] Eggs<br>
+[ ] Ham	[ ] Milk<br>
+[ ] ProVita	[ ] Salmon<br>
+[ ] Yoghurts	[ ] Vitalite<br>
 
+[ ] Mackerel	[ ] Tuna<br>
+[ ] Nuts	[ ] Olives<br>
+[ ] Pasta	[ ] Pasta sauces<br>
+[ ] Soya sauce	[ ] Tinned tomatoes<br>
+[ ] Tinned beans (baked, cannelloni,kidney)<br>
 
+[ ] Coffee, instant	[ ] Coffee, real<br>
+[ ] Coffeemate	[ ] Teas<br>
 
-[ ] Courgettes	[ ] Carrots
+[ ] Cereals	[ ] Mugshots<br>
+[ ] Noodles	[ ] Pastes<br>
 
-[ ] Garlic	[ ] Onions
-
-[ ] Peppers	[ ] Potatoes
-
-[ ] Salad	[ ] Spring onions
-
-[ ] Soup vegetables
-
-
-
-[ ] Apple juice	[ ] Grapefruit juice
-
-[ ] Orange juice
-
-
-
-[ ] Apricot jam	[ ] Marmalade
-
-[ ] Peanut butter	[ ] Strawberry jam
-
-
-
-[ ] Apple pies	[ ] Bourbon biscuits
-
-[ ] Custard	[ ] Gingernuts
-
-[ ] Sponge puddings	[ ] Sugar - brown, white
-
-
-
-[ ] Calgon	[ ] Comfort
-
-[ ] Kitchen roll	[ ] Loo roll
-
-[ ] Tissues	[ ] Vanish
-
-[ ] Washing powder/liquid	[ ] Wipes
-
-
-
-[ ] Butter	[ ] Cheese(red, white)
-
-[ ] Creme fraiche	[ ] Eggs
-
-[ ] Ham	[ ] Milk
-
-[ ] ProVita	[ ] Salmon
-
-[ ] Yoghurts	[ ] Vitalite
-
-
-
-[ ] Mackerel	[ ] Tuna
-
-[ ] Nuts	[ ] Olives
-
-[ ] Pasta	[ ] Pasta sauces
-
-[ ] Soya sauce	[ ] Tinned tomatoes
-
-[ ] Tinned beans (baked, cannelloni,kidney)
-
-
-
-[ ] Coffee, instant	[ ] Coffee, real
-
-[ ] Coffeemate	[ ] Teas
-
-
-
-[ ] Cereals	[ ] Mugshots
-
-[ ] Noodles	[ ] Pastes
-
-
-
-[ ] Baguettes	[ ] Brown sliced bread
-
-[ ] White sliced bread	[ ] Pittas
-
-[ ] Wraps
+[ ] Baguettes	[ ] Brown sliced bread<br>
+[ ] White sliced bread	[ ] Pittas<br>
+[ ] Wraps<br>
