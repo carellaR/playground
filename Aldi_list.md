@@ -1,12 +1,12 @@
 # Aldi list
 
-<table><tr><td>
+<table><tr><td valign="top">
 	[ ] Blackberries<br>
 	[ ] Blueberries<br>
 	[ ] Grapes<br>
 	[ ] Kiwis<br>
-</td><td>
 	[ ] Lemons<br>
+</td><td valign="top">
 	[ ] Oranges<br>
 	[ ] Pineapple<br>
 	[ ] Strawberries<br>
