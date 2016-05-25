@@ -1,10 +1,17 @@
-# Aldi list<br>
+# Aldi list
 
-<br>[ ] Blackberries	[ ] Blueberries<br>
-[ ] Grapes	[ ] Kiwis<br>
-[ ] Lemons	[ ] Oranges<br>
-[ ] Pineapple	[ ] Strawberries<br>
-[ ] Tangerines<br>
+<table><tr><td>
+	[ ] Blackberries<br>
+	[ ] Blueberries<br>
+	[ ] Grapes<br>
+	[ ] Kiwis<br>
+</td><td>
+	[ ] Lemons<br>
+	[ ] Oranges<br>
+	[ ] Pineapple<br>
+	[ ] Strawberries<br>
+	[ ] Tangerines<br>
+</td></tr></table>
 
 [ ] Courgettes	[ ] Carrots<br>
 [ ] Garlic	[ ] Onions<br>
